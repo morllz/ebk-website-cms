@@ -1,0 +1,3 @@
+[submodule "appdata/ebk-website"]
+	path = appdata/ebk-website
+	url = https://github.com/Eigenbaukombinat/website-build.git
